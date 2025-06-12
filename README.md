@@ -15,7 +15,7 @@ This project was built by Stephen and can be found on [GitHub](https://github.co
 - **New Post Notifications:** Automatically sends an email notification to all registered members whenever a new article is published, keeping your team informed of new content.
 - **Easy Configuration:** All settings, including enabling the plugin, allowing registration, and setting custom URLs, are managed from the plugin's configuration screen.
 
-<br/>
+<br/> 
 
 ## Requirement
 
