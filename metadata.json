@@ -1,0 +1,10 @@
+{
+	"author": "Stephen",
+	"email": "",
+	"website": "https://github.com/Oloh",
+	"version": "2.0.0",
+	"releaseDate": "2025-06-12",
+	"license": "MIT",
+	"compatible": "3.0,3.1,3.2",
+	"notes": "Creates a private, members-only website with a separate registration and login system. Features email notifications for registration and new posts."
+}

@@ -1,0 +1,16 @@
+{
+	"plugin-data": {
+		"name": "Mitgliedschaft",
+		"description": "Erstellt eine private Webseite nur für Mitglieder mit einem separaten Registrierungs- und Anmeldesystem. Bietet E-Mail-Benachrichtigungen."
+	},
+	"enable-plugin": "Plugin aktivieren",
+	"allow-new-member-registration": "Neue Mitgliederregistrierung erlauben",
+	"login-page-slug": "Slug für Login-Seite",
+	"help-login-page-slug": "URL für die Mitglieder-Login-Seite.",
+	"register-page-slug": "Slug für Registrierungsseite",
+	"help-register-page-slug": "URL für die Mitglieder-Registrierungsseite.",
+	"logout-page-slug": "Slug für Logout-Seite",
+	"help-logout-page-slug": "URL zum Abmelden von Mitgliedern.",
+	"enabled": "Aktiviert",
+	"disabled": "Deaktiviert"
+}

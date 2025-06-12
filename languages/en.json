@@ -1,0 +1,16 @@
+{
+	"plugin-data": {
+		"name": "Membership",
+		"description": "Creates a private, members-only website with a separate registration and login system. Features email notifications."
+	},
+	"enable-plugin": "Enable plugin",
+	"allow-new-member-registration": "Allow new member registration",
+	"login-page-slug": "Login page slug",
+	"help-login-page-slug": "URL for the member login page.",
+	"register-page-slug": "Register page slug",
+	"help-register-page-slug": "URL for the member registration page.",
+	"logout-page-slug": "Logout page slug",
+	"help-logout-page-slug": "URL to log out members.",
+	"enabled": "Enabled",
+	"disabled": "Disabled"
+}
