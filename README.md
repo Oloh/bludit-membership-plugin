@@ -2,7 +2,7 @@
 
 This plugin transforms a standard Bludit CMS site into a full-featured, private, members-only knowledge management system. It is a complete overhaul of the original 'Private Mode NG' plugin, rebuilt to provide a robust user registration and content protection system.
 
-This project was built by Stephen and can be found on [GitHub](https://github.com/Oloh).
+This project was built by Stephen and can be found on [GitHub](https://github.com/Oloh/bludit-membership-plugin/tree/main).
 
 <br/>
 
